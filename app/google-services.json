@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "873573567221",
+    "firebase_url": "https://younotenew.firebaseio.com",
+    "project_id": "younotenew",
+    "storage_bucket": "younotenew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873573567221:android:c0fe88e222819003",
+        "android_client_info": {
+          "package_name": "com.example.bhavya.younote_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873573567221-aui2il629gsiolqethcboevdh9p6sirq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCku65dCMK84TX6r_9KUTmTYdOqm-xSibY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
